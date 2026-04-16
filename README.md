@@ -14,7 +14,7 @@ Nationally:
 - New Brunswick is the top-performing province at 8.2
 
 BC Specifically:
-- BC rural hospitals average 10.8 vs 9.9 for urban — a persistent gap across all years
+- BC rural hospitals average 10.8 vs 9.9 for urban
 - Bella Coola General Hospital has the highest rate in BC at 15.1
 
 ## Tools Used
@@ -25,7 +25,7 @@ BC Specifically:
 ## Dashboard Features
 - National province comparison with interactive year slicer
 - Drill-through from any province to facility-level data
-- Dynamic titles that update based on selected province
+- Dynamic titles that update based on the selected province
 - Urban vs rural comparison per province
 - Health region slicer for facility filtering
 
