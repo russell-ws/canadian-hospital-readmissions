@@ -34,5 +34,5 @@ Canadian Institute for Health Information (CIHI)
 https://www.cihi.ca/en/indicators/all-patients-readmitted-to-hospital
 
 ## Screenshots
-![National Overview](screenshots/national_overview.png)
-![Provincial Deep Dive](screenshots/provincial_deep_dive.png)
+![National Overview](screenshots/National Overview.png)
+![Provincial Deep Dive](screenshots/Provincial Overview.png)
